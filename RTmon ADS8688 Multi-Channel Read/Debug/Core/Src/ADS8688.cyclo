@@ -1,0 +1,8 @@
+../Core/Src/ADS8688.c:20:6:ADS8688_Write_Command	1
+../Core/Src/ADS8688.c:28:6:ADS8688_Write_Register	1
+../Core/Src/ADS8688.c:41:6:ADS8688_Read_Register	1
+../Core/Src/ADS8688.c:54:6:ADS8688_Init_Sequence	1
+../Core/Src/ADS8688.c:73:6:ADS8688_Config_Manual	1
+../Core/Src/ADS8688.c:85:10:ADS8688_Read_Ch	1
+../Core/Src/ADS8688.c:106:6:ADS8688_Config_AutoScan	1
+../Core/Src/ADS8688.c:133:6:ADS8688_Read_All_Auto	2
