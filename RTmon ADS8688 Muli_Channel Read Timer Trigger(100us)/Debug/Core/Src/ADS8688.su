@@ -1,0 +1,8 @@
+../Core/Src/ADS8688.c:25:6:ADS8688_Write_Command	32	static
+../Core/Src/ADS8688.c:33:6:ADS8688_Write_Register	32	static
+../Core/Src/ADS8688.c:47:6:ADS8688_Init_Sequence	32	static
+../Core/Src/ADS8688.c:66:6:ADS8688_Config_Manual	32	static
+../Core/Src/ADS8688.c:77:10:ADS8688_Read_Ch	40	static
+../Core/Src/ADS8688.c:90:6:ADS8688_Config_AutoScan	40	static
+../Core/Src/ADS8688.c:112:6:ADS8688_Read_All_Auto	48	static
+../Core/Src/ADS8688.c:125:7:Calculate_Channel_Average	48	static
