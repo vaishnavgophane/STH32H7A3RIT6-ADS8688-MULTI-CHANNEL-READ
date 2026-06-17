@@ -2,7 +2,7 @@
  * ADS8688.c
  *
  *  Created on: Mar 14, 2026
- *      Author: Administrator
+ *      Author: Vaishnav
  */
 #include "main.h"
 #include "ADS8688.h"
